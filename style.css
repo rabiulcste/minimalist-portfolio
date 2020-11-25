@@ -111,3 +111,17 @@ img {
   padding: 5px;
   width: 150px;
 }
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  /*width: 100%;
+  background-color: lightgray;*/
+  color: lightgray;
+  text-align: center;
+  font-size: .8rem;
+
+}
